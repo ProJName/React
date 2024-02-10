@@ -1,0 +1,36 @@
+.profilePage {
+    display: flex;
+    max-width: 100vw;
+    min-height: 100vh;
+    text-align: centers;
+    flex-direction: column;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 1%, rgba(45, 17, 205, 1) 7%, rgba(249, 255, 0, 1) 78%, rgba(35, 35, 88, 1) 99%);
+}
+
+.headerPage {
+    text-align: center;
+}
+
+.Logout {
+    max-width: 10vw;
+    min-height: 10vh;
+    margin-left: 2%;
+}
+
+.outputName {
+    margin-left: 2%;
+    color: greenyellow;
+    max-width: 10vw;
+    font-size: large;
+}
+
+.changeName {
+    max-width: 10vw;
+    min-height: 10vh;
+    margin-left: 2%;
+}
+
+.formButton {
+    position: absolute;
+    top: 111px;
+}

@@ -1,0 +1,51 @@
+.Forms {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 0 0 0;
+    /* justify-content: center;
+    /* justify-self: center; */
+    /* margin: 0 auto; */
+    /* position: fixed;
+    /* bottom: 0%; */
+    /* left: 0%;
+    right: 10px; */
+    /* width: 100vw; */
+    min-height: 4vh;
+    /* font-size: 20px; */
+}
+
+
+.Windows.MuiFormControl-root {
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 1px;
+    background-color: greenyellow;
+    position: fixed;
+    margin: 14px 0 0 -14px;
+    left: 13%;
+    /* width: 86vw; */
+    border: none;
+}
+
+
+/* .MuiInputBase-input MuiOutlinedInput-input {
+    display: flex;
+    justify-content: flex-start;
+    width: 20px;
+    min-height: 10%;
+    position: fixed;
+    top: 20%;
+} */
+
+.btnSub.MuiButtonBase-root {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 12vw;
+    position: fixed;
+    left: 25%;
+    margin: 17px 0 0 -19px;
+    font-size: large;
+    background-color: greenyellow;
+    border-radius: 30px;
+    color: black;
+}

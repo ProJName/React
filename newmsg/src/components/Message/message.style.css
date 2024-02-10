@@ -1,0 +1,17 @@
+.headerBasic {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace, Courier, monospace, Helvetica, sans-serif;
+    max-width: 66vw;
+    border-radius: 30px;
+}
+
+
+.message {
+    justify-content: center;
+    max-height: 100vh;
+    color: yellow;
+    font-size: 21px;
+    max-width: 40vw;
+}
