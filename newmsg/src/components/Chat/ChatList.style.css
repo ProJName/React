@@ -1,0 +1,43 @@
+.chat_first {
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    background: rgb(148, 187, 233);
+    background: linear-gradient(180deg, rgba(148, 187, 233, 1) 27%, rgba(238, 174, 202, 1) 66%);
+}
+
+
+.chat-list {
+    flex-direction: column;
+    display: flex;
+    justify-content: flex-start;
+    width: 12vw;
+    height: 80vh;
+    font-size: 30px;
+    background-color: chartreuse;
+    color: yellow;
+    border-radius: 30px;
+    position: fixed;
+    align-items: center;
+    /* z-index: 3; */
+    left: 5px;
+}
+
+/* .Delete {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 20%;
+    left: 13%;
+    max-width: 40px;
+    max-height: 40px;
+    z-index: 10;
+} */
+
+.deleteChat {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    border: 1px solid #000;
+}

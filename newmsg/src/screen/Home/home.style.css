@@ -1,0 +1,20 @@
+.Home_first {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    max-width: 100vw;
+    min-height: 100vh;
+    background: rgb(2, 0, 36);
+    background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(45, 17, 205, 1) 8%, rgba(249, 255, 0, 1) 67%, rgba(35, 35, 88, 1) 99%);
+}
+
+.linkAuth {
+    color: black;
+    margin: 0 50px 0 0;
+}
+
+.first {
+    margin: 0 auto;
+    /* justify-content: center; */
+}
